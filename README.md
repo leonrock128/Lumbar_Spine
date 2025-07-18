@@ -1,4 +1,5 @@
 Project: Lumbar Spine Degenerative classification
+
 Lumbar spine degenerative disease, also known as degenerative disc disease, is a condition characterized by the progressive deterioration of the discs between the vertebrae in the lower back. 
 This condition is often a natural part of aging and can lead to symptoms such as back pain, stiffness, and in some cases, nerve pain due to herniated discs.
 
